@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Contact me
+
+[![LinkedIn Badge](LinkedIn Badge Linki)](https://www.linkedin.com/in/ekrem-bayar/)
+[![Twitter Badge](Twitter Badge Linki)](https://twitter.com/EkremBayar_)
+[![Instagram Badge](Instagram Badge Linki)](https://www.instagram.com/ekrembayar_/)
