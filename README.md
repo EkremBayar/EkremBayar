@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ## Contact me
 
-[![LinkedIn Badge](LinkedIn Badge Linki)](https://www.linkedin.com/in/ekrem-bayar/)
-[![Twitter Badge](Twitter Badge Linki)](https://twitter.com/EkremBayar_)
-[![Instagram Badge](Instagram Badge Linki)](https://www.instagram.com/ekrembayar_/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ekrem-bayar/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/EkremBayar_)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-orange)](https://www.instagram.com/ekrembayar_/)
