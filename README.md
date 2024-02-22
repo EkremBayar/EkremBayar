@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+### Contact me
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ekrem-bayar/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/EkremBayar_)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-orange)](https://www.instagram.com/ekrembayar_/)
+
+### Applications
+
+- [FIFA 19 R Shiny App](https://ekrem-bayar.shinyapps.io/FifaDash/)
+
+
 <!--
 **EkremBayar/EkremBayar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Contact me
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ekrem-bayar/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/EkremBayar_)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-orange)](https://www.instagram.com/ekrembayar_/)
