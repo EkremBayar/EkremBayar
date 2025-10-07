@@ -3,9 +3,9 @@
 ### Contact me
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ekrem-bayar/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-gray)](https://twitter.com/EkremBayar_)
+[![X Badge](https://img.shields.io/badge/X-Profile-green)](https://twitter.com/EkremBayar_)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-pink)](https://www.instagram.com/ekrembayar_/)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-Profile-red)](https://www.youtube.com/@EkremBayar/videos)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-Channel-red)](https://www.youtube.com/@EkremBayar/videos)
 
 ### Applications
 
